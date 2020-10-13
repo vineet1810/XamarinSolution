@@ -1,0 +1,9 @@
+C:\Vineet\Study\Priya It\Academy\Academy.UtilityAndModels\bin\Debug\netstandard2.0\Academy.UtilityAndModels.deps.json
+C:\Vineet\Study\Priya It\Academy\Academy.UtilityAndModels\bin\Debug\netstandard2.0\Academy.UtilityAndModels.dll
+C:\Vineet\Study\Priya It\Academy\Academy.UtilityAndModels\bin\Debug\netstandard2.0\Academy.UtilityAndModels.pdb
+C:\Vineet\Study\Priya It\Academy\Academy.UtilityAndModels\obj\Debug\netstandard2.0\Academy.UtilityAndModels.csprojAssemblyReference.cache
+C:\Vineet\Study\Priya It\Academy\Academy.UtilityAndModels\obj\Debug\netstandard2.0\Academy.UtilityAndModels.csproj.CoreCompileInputs.cache
+C:\Vineet\Study\Priya It\Academy\Academy.UtilityAndModels\obj\Debug\netstandard2.0\Academy.UtilityAndModels.AssemblyInfoInputs.cache
+C:\Vineet\Study\Priya It\Academy\Academy.UtilityAndModels\obj\Debug\netstandard2.0\Academy.UtilityAndModels.AssemblyInfo.cs
+C:\Vineet\Study\Priya It\Academy\Academy.UtilityAndModels\obj\Debug\netstandard2.0\Academy.UtilityAndModels.dll
+C:\Vineet\Study\Priya It\Academy\Academy.UtilityAndModels\obj\Debug\netstandard2.0\Academy.UtilityAndModels.pdb

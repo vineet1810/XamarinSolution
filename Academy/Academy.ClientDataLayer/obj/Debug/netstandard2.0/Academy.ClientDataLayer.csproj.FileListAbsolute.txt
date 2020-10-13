@@ -1,0 +1,13 @@
+C:\Vineet\Study\Priya It\Academy\Academy.ClientDataLayer\bin\Debug\netstandard2.0\Academy.ClientDataLayer.deps.json
+C:\Vineet\Study\Priya It\Academy\Academy.ClientDataLayer\bin\Debug\netstandard2.0\Academy.ClientDataLayer.dll
+C:\Vineet\Study\Priya It\Academy\Academy.ClientDataLayer\bin\Debug\netstandard2.0\Academy.ClientDataLayer.pdb
+C:\Vineet\Study\Priya It\Academy\Academy.ClientDataLayer\bin\Debug\netstandard2.0\Academy.UtilityAndModels.dll
+C:\Vineet\Study\Priya It\Academy\Academy.ClientDataLayer\bin\Debug\netstandard2.0\Academy.UtilityAndModels.pdb
+C:\Vineet\Study\Priya It\Academy\Academy.ClientDataLayer\obj\Debug\netstandard2.0\Academy.ClientDataLayer.csprojAssemblyReference.cache
+C:\Vineet\Study\Priya It\Academy\Academy.ClientDataLayer\obj\Debug\netstandard2.0\Academy.ClientDataLayer.csproj.CoreCompileInputs.cache
+C:\Vineet\Study\Priya It\Academy\Academy.ClientDataLayer\obj\Debug\netstandard2.0\Academy.ClientDataLayer.AssemblyInfoInputs.cache
+C:\Vineet\Study\Priya It\Academy\Academy.ClientDataLayer\obj\Debug\netstandard2.0\Academy.ClientDataLayer.AssemblyInfo.cs
+C:\Vineet\Study\Priya It\Academy\Academy.ClientDataLayer\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Vineet\Study\Priya It\Academy\Academy.ClientDataLayer\obj\Debug\netstandard2.0\Academy.ClientDataLayer.csproj.CopyComplete
+C:\Vineet\Study\Priya It\Academy\Academy.ClientDataLayer\obj\Debug\netstandard2.0\Academy.ClientDataLayer.dll
+C:\Vineet\Study\Priya It\Academy\Academy.ClientDataLayer\obj\Debug\netstandard2.0\Academy.ClientDataLayer.pdb
